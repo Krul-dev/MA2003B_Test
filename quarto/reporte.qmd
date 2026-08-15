@@ -15,7 +15,7 @@ library(maps)
 map("world")
 ```
 
-
+Test
 Para esta primera etapa, empezaremos por cargar las librerías que necesitamos y establecemos algunas opciones de configuración:
 ```{r}
 #| output: false
